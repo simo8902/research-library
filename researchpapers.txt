@@ -1,0 +1,49 @@
+https://doi.org/ + paper doi
+
+index:
+  cs.SE  doi:10.48550/arXiv.2403.03751  [06.03.2024]
+  cs.DB  doi:10.48550/arXiv.2504.12251  [16.04.2025]
+  cs.DB  doi:10.48550/arXiv.2510.10348  [11.10.2025]
+  cs.DB  doi:10.48550/arXiv.1108.1228   [04.08.2011]
+
+index-merge:
+  cs.DB  doi:10.48550/arXiv.1812.07527  [18.12.2018]
+  cs.IR  doi:10.48550/arXiv.1305.0699   [03.05.2013]
+
+index-freshness:
+  cs.DB  doi:10.48550/arXiv.2605.01260  [02.05.2026]
+
+agent-index:
+  cs.AI  doi:10.48550/arXiv.2606.22417  [21.06.2026]
+
+agent-search:
+  cs.CL  doi:10.48550/arXiv.2605.15184  [14.05.2026]
+  cs.IR  doi:10.48550/arXiv.2607.24882  [27.07.2026]
+  cs.SE  doi:10.48550/arXiv.2608.01507  [02.08.2026]
+
+navigation:
+  cs.PL  doi:10.48550/arXiv.2211.01224  [02.11.2022]
+
+lsp:
+  cs.CL  doi:10.48550/arXiv.2510.22907  [27.10.2025]
+  cs.SE  doi:10.48550/arXiv.2510.00532  [01.10.2025]
+
+atomic-write:
+  cs.OS  doi:10.48550/arXiv.1810.02904  [05.10.2018]
+  cs.OS  doi:10.48550/arXiv.2503.01390  [03.03.2025]
+
+tool-output:
+  cs.AI  doi:10.48550/arXiv.2511.22729  [27.11.2025]
+  cs.AI  doi:10.48550/arXiv.2609.26121  [06.08.2026]
+  cs.CL  doi:10.48550/arXiv.2608.26130  [23.06.2026]
+  cs.SE  doi:10.48550/arXiv.2405.15793  [06.05.2024]
+  cs.LG  doi:10.48550/arXiv.2609.32961  [26.09.2026]
+  cs.SE  doi:10.48550/arXiv.2604.04979  [04.04.2026]
+  cs.AI  doi:10.48550/arXiv.2605.29676  [28.05.2026]
+
+cs.AR = Hardware Architecture; cs.CE = Computational Engineering, Finance, and Science; cs.CL = Computation and Language; cs.CR = Cryptography and Security; cs.CV = Computer Vision and Pattern Recognition; cs.DC = Distributed, Parallel, and Cluster Computing; cs.DL = Digital Libraries; cs.DS = Data Structures and Algorithms; cs.ET = Emerging Technologies; cs.GL = General Literature; cs.GR = Graphics; cs.HC = Human-Computer Interaction; cs.IR = Information Retrieval; cs.MA = Multiagent Systems; cs.NE = Neural and Evolutionary Computing; cs.PF = Performance; cs.SD = Sound; cs.SI = Social and Information Networks; cs.SY = Systems and Control
+
+cs.CC = Computational Complexity; cs.CG = Computational Geometry; cs.DM = Discrete Mathematics; cs.FL = Formal Languages and Automata Theory; cs.NA = Numerical Analysis; cs.SC = Symbolic Computation
+math.CO = Combinatorics; math.NA = Numerical Analysis; math.OC = Optimization and Control; math.PR = Probability; math.ST = Statistics Theory
+
+Made by the stupid Simeon
